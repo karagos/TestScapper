@@ -10,7 +10,7 @@ import urllib2
 QUERY = 'drinkfinity'
 GEOINFO = '-9.467430, -50.561770,3000km'
 RESULTS_PER_PAGE = '100'
-LANGUAGE = 'all'
+LANGUAGE = 'en'
 NUM_PAGES = 2 
 
 for page in range(1, NUM_PAGES+1):
